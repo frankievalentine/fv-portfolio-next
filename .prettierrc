@@ -1,7 +1,6 @@
 {
-    "arrowParens": "always",
-    "bracketSpacing": false,
-    "singleQuote": true,
-    "tabWidth": 2
-  }
-  
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "singleQuote": true,
+  "tabWidth": 2
+}
