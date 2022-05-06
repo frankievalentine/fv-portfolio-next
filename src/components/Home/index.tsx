@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-const Header = () => (
+const Home = () => (
   <header>
     <ul>
       <li>
@@ -20,4 +20,4 @@ const Header = () => (
   </header>
 );
 
-export default Header;
+export default Home;
